@@ -1,5 +1,3 @@
-# Estat-sticas-de-todos-os-jogadores-de-futebol-nas-5-principais-ligas-24-25---Projeto-3
-
 # **⚽📊 Análise Estatística dos Jogadores nas 5 Principais Ligas (Temporada 24/25)**  
 Este repositório contém uma análise detalhada das estatísticas dos jogadores que atuam nas **5 principais ligas europeias** durante a temporada **2024/2025**. Usamos **Python** e bibliotecas avançadas para explorar métricas ofensivas, defensivas e comparações entre ligas.
 
